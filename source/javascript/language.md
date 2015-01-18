@@ -1,0 +1,3 @@
+ - [Eloquent Javascript](http://eloquentjavascript.net/)
+ - [JavaScript Furtivo](http://ericdouglas.github.io/2014/04/08/10-javascript-furtivo-apresentacao/)
+ - [MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
