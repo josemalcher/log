@@ -1,0 +1,1 @@
+-[Como os navegadores funcionam: bastidores dos navegadores modernos](http://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/)
