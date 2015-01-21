@@ -1,5 +1,9 @@
- - [Eloquent Javascript](http://eloquentjavascript.net/) - Data inicio 19/01/2015 
+## Documentação
  - [MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+##Livros
+ - [Eloquent Javascript](http://eloquentjavascript.net/) - Data inicio 19/01/2015 
+
  
 ## Artigos
 
