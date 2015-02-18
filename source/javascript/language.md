@@ -3,6 +3,7 @@
 
 ##Livros
  - [Eloquent Javascript](http://eloquentjavascript.net/) - Data inicio 19/01/2015 
+ - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction)
 
  
 ## Artigos
