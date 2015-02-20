@@ -23,6 +23,9 @@
 - [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 1/3](http://blog.da2k.com.br/2015/01/03/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-1-3/) - Data: 19/02/2015 
 - [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 2/3](http://blog.da2k.com.br/2015/01/04/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-2-3/)  - Data: 19/02/2015 
 - [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte3/3](http://blog.da2k.com.br/2015/01/05/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-3-3/)  - Data: 19/02/2015 
+- [As múltiplas personalidades do this em JavaScript](http://blog.caelum.com.br/as-multiplas-personalidades-do-this-em-javascript/) - Data: 20/02/2015 
+- [Conhecendo o operator new e os protótipos no JavaScript](http://blog.caelum.com.br/conhecendo-o-operator-new-e-os-prototipos-no-javascript/) - Data: 20/02/2015 
+- [Boas práticas com JavaScript e jQuery: código não-obstrusivo](http://blog.caelum.com.br/boas-praticas-com-javascript-e-jquery-codigo-nao-obstrusivo/)  - Data: 20/02/2015 
 
 
 
