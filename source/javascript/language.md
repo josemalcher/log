@@ -28,6 +28,7 @@
 - [Boas práticas com JavaScript e jQuery: código não-obstrusivo](http://blog.caelum.com.br/boas-praticas-com-javascript-e-jquery-codigo-nao-obstrusivo/)  - Data: 20/02/2015 
 - [Criação de objetos em Javascript](http://blog.caelum.com.br/criacao-de-objetos-em-javascript/) - Data: 21/02/2015
 - [Reaproveitando código com JavaScript: herança e protótipos](http://blog.caelum.com.br/reaproveitando-codigo-com-javascript-heranca-e-prototipos/) - Data: 21/02/2015
+- [Entenda a nova especificação de classes do JavaScript Harmony ES6](http://blog.caelum.com.br/javascript-entenda-a-nova-especificacao-de-classes-do-harmony-es6/)
 
 
 
