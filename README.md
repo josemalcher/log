@@ -1,1 +1,1 @@
-The log of a developer's studies. Inspired by the [dev-log](https://github.com/ericdouglas/dev-log)
+Uma coleção de artigos sobre desenvolvimento web!
