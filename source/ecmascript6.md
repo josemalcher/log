@@ -1,1 +1,0 @@
-- [Google Traceur, ou “Como usar ECMAScript 6 hoje”](http://loopinfinito.com.br/2014/01/28/google-traceur-ecmascript-6/)
