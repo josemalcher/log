@@ -29,6 +29,8 @@
 - [Entenda a nova especificação de classes do JavaScript Harmony ES6](http://blog.caelum.com.br/javascript-entenda-a-nova-especificacao-de-classes-do-harmony-es6/)
 - [Design Patterns para Javascript - Parte 1](http://udgwebdev.com/design-patterns-para-javascript-parte-1/)
 - [Design Patterns para Javascript - Parte 2](http://udgwebdev.com/design-patterns-para-javascript-parte-2/)
+- [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
+- [Entendendo captura e propagação de eventos](http://loopinfinito.com.br/2013/05/14/entendendo-captura-e-propagacao-de-eventos/)
 
 
 
