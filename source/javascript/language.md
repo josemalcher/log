@@ -31,6 +31,9 @@
 - [Design Patterns para Javascript - Parte 2](http://udgwebdev.com/design-patterns-para-javascript-parte-2/)
 - [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
 - [Entendendo captura e propagação de eventos](http://loopinfinito.com.br/2013/05/14/entendendo-captura-e-propagacao-de-eventos/)
+- [Javascript - como funcionam as funções recursivas](http://blog.da2k.com.br/2015/02/27/javascript-como-funcionam-as-funcoes-recursivas/)
+- [Os segredos da IIFE](http://blog.da2k.com.br/2015/02/20/os-segredos-da-iife/)
+- [Javascript - como invocar funções](http://blog.da2k.com.br/2015/01/30/javascript-como-invocar-funcoes/)
 
 
 
