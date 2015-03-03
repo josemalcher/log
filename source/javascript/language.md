@@ -34,6 +34,10 @@
 - [Javascript - como funcionam as funções recursivas](http://blog.da2k.com.br/2015/02/27/javascript-como-funcionam-as-funcoes-recursivas/)
 - [Os segredos da IIFE](http://blog.da2k.com.br/2015/02/20/os-segredos-da-iife/)
 - [Javascript - como invocar funções](http://blog.da2k.com.br/2015/01/30/javascript-como-invocar-funcoes/)
+- [Design Patterns no JavaScript – Module](http://simplesideias.com.br/design-patterns-no-javascript-module)
+- [Design Patterns no JavaScript – Singleton](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
+- [Design Patterns no JavaScript – Factory](http://simplesideias.com.br/design-patterns-no-javascript-factory)
+- [Design Patterns no JavaScript – Decorator](http://simplesideias.com.br/design-patterns-no-javascript-decorator)
 
 
 
