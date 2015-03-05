@@ -39,6 +39,7 @@
 - [Design Patterns no JavaScript – Factory](http://simplesideias.com.br/design-patterns-no-javascript-factory)
 - [Design Patterns no JavaScript – Decorator](http://simplesideias.com.br/design-patterns-no-javascript-decorator)
 - [Escalando Javascript no browser](http://blog.da2k.com.br/2015/02/13/escalando-javascript-no-browser/)
+- [Javascript - entendendo e criando suas próprias Promises](http://blog.da2k.com.br/2015/03/05/javascript-entendendo-e-criando-suas-proprias-promises/)
 
 
 
