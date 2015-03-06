@@ -7,3 +7,4 @@
 - [10 Módulos para Node.js](http://udgwebdev.com/10-modulos-para-node-js/)
 - [Onde hospedar aplicações Node.js](http://udgwebdev.com/onde-hospedar-aplicacoes-node-js/)
 - [Express vs Geddy](http://udgwebdev.com/express-vs-geddy/)
+- [Jade, um ótimo template engine](http://udgwebdev.com/jade-um-otimo-template-engine/)
