@@ -41,6 +41,8 @@
 - [Escalando Javascript no browser](http://blog.da2k.com.br/2015/02/13/escalando-javascript-no-browser/)
 - [Javascript - entendendo e criando suas próprias Promises](http://blog.da2k.com.br/2015/03/05/javascript-entendendo-e-criando-suas-proprias-promises/)
 - [Javascript - Criando um módulo Ajax com Promises - Parte 1](http://blog.da2k.com.br/2015/03/06/javascript-criando-um-modulo-ajax-com-promises/)
+- [Javascript - Criando um módulo Ajax com Promises - Parte 2](http://blog.da2k.com.br/2015/03/08/javascript-criando-um-modulo-ajax-com-promises-parte-2/)
+- [Javascript - Criando um módulo Ajax com Promises - Parte 3](http://blog.da2k.com.br/2015/03/11/javascript-criando-um-modulo-ajax-com-promises-parte-3/)
 
 
 
