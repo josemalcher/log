@@ -13,6 +13,12 @@
  - [JavaScript Furtivo | 03 - Conhecendo o Idioma JavaScript](http://ericdouglas.github.io/2014/04/08/12-javascript-furtivo-conhecendo-o-idioma-javascript/) 
  - [JavaScript Furtivo | 04 - O Valor dos Tipos de Operadores - Parte 1](http://ericdouglas.github.io/2014/04/19/14-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-02/) 
  - [JavaScript Furtivo | 05 - O Valor dos Tipos de Operadores - Parte 2](http://ericdouglas.github.io/2014/04/19/14-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-02/#valores-booleanos)
+ - [JavaScript Furtivo | 06 - ExpressõesJavaScript](http://ericdouglas.github.io/2014/04/23/15-javascript-furtivo-expressoes-javascript/)
+ 
+
+
+
+
  
 - [JSON. De gambiarra a padrão](http://loopinfinito.com.br/2013/06/18/json-de-gambiarra-a-padrao/) 
 - [Organize seu código Javascript de maneira fácil!](http://blog.caelum.com.br/organize-seu-codigo-javascript-de-maneira-facil/) 
