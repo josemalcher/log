@@ -15,6 +15,7 @@
  - [JavaScript Furtivo | 05 - O Valor dos Tipos de Operadores - Parte 2](http://ericdouglas.github.io/2014/04/19/14-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-02/#valores-booleanos)
  - [JavaScript Furtivo | 06 - ExpressõesJavaScript](http://ericdouglas.github.io/2014/04/23/15-javascript-furtivo-expressoes-javascript/)
  - [JavaScript Furtivo | 07 - Instruções e Programação Modular no JavaScript - Pt 1](http://ericdouglas.github.io/2014/10/05/19-intrucoes-e-programacao-modular/)
+ - [Javascript - Criando um módulo Ajax com Promises - Parte 4](http://blog.da2k.com.br/2015/03/14/javascript-criando-um-modulo-ajax-com-promises-parte-4/)
  
 
 
