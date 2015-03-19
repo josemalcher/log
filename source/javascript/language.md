@@ -52,6 +52,7 @@
 - [Javascript - Criando um módulo Ajax com Promises - Parte 2](http://blog.da2k.com.br/2015/03/08/javascript-criando-um-modulo-ajax-com-promises-parte-2/)
 - [Javascript - Criando um módulo Ajax com Promises - Parte 3](http://blog.da2k.com.br/2015/03/11/javascript-criando-um-modulo-ajax-com-promises-parte-3/)
 - [Javascript - Criando um módulo Ajax com Promises - Parte 4](http://blog.da2k.com.br/2015/03/14/javascript-criando-um-modulo-ajax-com-promises-parte-4/)
+- [Pensando TDD com Javascript](http://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
 
 
 
