@@ -53,6 +53,7 @@
 - [Javascript - Criando um módulo Ajax com Promises - Parte 3](http://blog.da2k.com.br/2015/03/11/javascript-criando-um-modulo-ajax-com-promises-parte-3/)
 - [Javascript - Criando um módulo Ajax com Promises - Parte 4](http://blog.da2k.com.br/2015/03/14/javascript-criando-um-modulo-ajax-com-promises-parte-4/)
 - [Pensando TDD com Javascript](http://blog.da2k.com.br/2015/01/06/pensando-tdd-com-javascript/)
+- [Praticando as linguagens do novo mundo](http://bocoup.com/weblog/goiabada-pt-BR/?utm_campaign=06382c0aa2-BrazilJS_Weekly_303_22_2013&utm_medium=email&utm_source=BrazilJS+Weekly&utm_term=0_e6beed4270-06382c0aa2-77605845)
 
 
 
